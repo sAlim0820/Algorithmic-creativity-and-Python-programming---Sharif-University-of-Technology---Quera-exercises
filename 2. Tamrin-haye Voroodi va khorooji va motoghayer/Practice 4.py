@@ -1,0 +1,4 @@
+print("""oOoOo
+OoOoO
+oOoOo
+""")
